@@ -106,4 +106,4 @@ client.on("guildMemberAdd", (member) => {
         })
     })
 });
-client.login(process.env.BOT_TOKEN);
+client.login(NTQxOTE0OTE2MTQ4NDc3OTUy.DzmZHg.ORAHSfTvKk5GyxsTUAfPLZeLMpw);
